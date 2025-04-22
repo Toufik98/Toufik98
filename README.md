@@ -1,65 +1,65 @@
-### Hi there 👋 I'm Toufik FERHAT (aka Toufik98), I am a fresh software engineer graduated from Sorbonne University in Paris, France.  
+# Toufik FERHAT
 
-## My interests
-- 🌱 I’m currently learning **Cloud Computing** and **DevOps**.
-- 👯 I’m looking to collaborate on **Open Source** projects.
-- 🤔 I’m looking for help with **Deep Learning** and **Machine Learning**.
-- 💬 Ask me about **Python** and **C++**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/toufik-ferhat/)
-- ⚡ Fun fact: I love **Football** and **Video Games**.
+### Full Stack Software Engineer | C++ | Python | TypeScript | React | Angular
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toufik-ferhat-012317154/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-darkgreen)](https://github.com/Toufik98)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:toufik.ferhat@outlook.com)
 
-## My background
-- 🎓 I have a **Master's degree** in **Intelligent Systems Engineering** from Sorbonne University in Paris, France.
-- 🎓 I have a **Bachelor's degree** in **Electronics** from Sorbonne University in Paris, France.
+## 👨‍💻 Professional Summary
+Software engineer with extensive experience in payment systems, automotive software, and AI applications. Skilled in C++, Python, TypeScript, React, and Angular with a strong foundation in both frontend and backend development, embedded systems, and machine learning.
 
-## My experience
-- 🏢 I'm currently working as a **Software Engineer** at **[Scalian](https://www.scalian.com/)**.
-- 🏢 I did an apprenticeship as a **Cluster Software Engineer** at **[Renault Group](https://www.renault.com/)**.
+## 🚀 Experience
 
-## My skills
-- Image Processing (OpenCV, Scikit-Image, ...)
-- Machine Learning (Scikit-Learn, Tensorflow, ...)
-- Deep Learning (PyTorch, ...)
-- Data Analysis (Pandas, Numpy, ...)
-- Data Visualization (Matplotlib, Seaborn, ...)
-- Web Development (Django, Flask, ...)
-- Cloud Computing (AWS, GCP, Azure, ...)
-- DevOps (Jenkins, Docker, Kubernetes, ...)
-- Linux (Ubuntu, Debian, CentOS, ...)
-- Windows (Windows 10, Windows Server 2016, ...)
-- Networking (TCP/IP, UDP, ...)
-- Databases (MySQL, PostgreSQL, MongoDB, ...)
-- Programming Languages (Python, C++, C, Java, ...)
-- Version Control (Git, SVN, ...)
-- Software Engineering (Agile, Scrum, Kanban, ...)
-- Project Management (Jira, Trello, ...)
-- Software Design (UML, ...)
-- Software Testing (Unit Testing, Integration Testing, ...)
+**Software Engineer Consultant** | Scalian (Amadeus Payments / Outpayce) | *Oct 2022 - Present*
+- Developing enterprise-level payment platform components using C++, Python, and Angular
+- Building responsive web interfaces with TypeScript and Angular
+- Working within SAFe Agile framework to deliver reliable software solutions
+- Optimizing application performance and resolving complex technical issues
 
+**Instrument Cluster Software Engineer** | Renault Group | *Sep 2020 - Sep 2022*
+- Architected driving simulation system with scalable software design
+- Enhanced 3D rendering for immersive simulation environments
+- Successfully migrated instrument cluster software to embedded Linux targets
+- Implemented AI-powered signal generation for realistic driving simulations
 
+**AI Engineer Intern** | Valeo | *Nov 2021 - Feb 2022*
+- Built AI-based inspection systems for power electronics manufacturing
+- Developed cross-platform interfaces using gRPC and Python
 
-## My tools
-- 🛠 I use Git for version control.
-- 🛠 I use PyCharm, Visual Studio Code, Eclipse, and Jupyter Notebook for development.
-- 🛠 I use Linux, Windows, and macOS for development.
-- 🛠 I use Docker, Kubernetes, and Jenkins for DevOps.
-- 🛠 I use AWS, GCP, and Azure for Cloud Computing.
-- 🛠 I use MySQL, PostgreSQL, and MongoDB for databases.
-- 🛠 I use Scikit-Learn, Tensorflow, and PyTorch for Machine Learning and Deep Learning.
+## 🎓 Education
 
+**Master's in Intelligent Systems Engineering** | Sorbonne University | *2020-2022*
 
+**Bachelor's in Electronics and Control Systems** | Sorbonne University | *2020*
 
-## My stats
-![Toufik98's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toufik98&show_icons=true&theme=radical)
+## 💼 Technical Proficiency
 
-## My languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toufik98&theme=radical)
+### Languages
+- **Advanced:** C++ (4+ years), Python (5+ years), C (3+ years)
+- **Proficient:** TypeScript, JavaScript, SQL, MATLAB, LaTeX
+- **Familiar:** Java, Shell, Assembly, QML, VHDL
 
+### Frontend & Web
+- **Frameworks:** React, React Native, Next.js, Angular
+- **UI/UX:** Responsive design, CSS, Material UI
 
-## My streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toufik98&theme=radical)
+### Backend & Infrastructure
+- **Frameworks:** TensorFlow, PyTorch, Qt, gRPC
+- **Development:** CMake, Conan, Git, SVN, Yocto, Docker
+- **Cloud/DevOps:** Azure, GCP, Artifactory, CI/CD
+- **Data:** Oracle DB, SQL, Pandas, NumPy, OpenCV
 
+## 🏆 Certifications
+- SAFe® 5.1 Practitioner
+- TensorFlow and Machine Learning specializations
 
+## 🔍 Current Focus
+- Advancing cloud-native architecture skills
+- Contributing to open-source projects
+- Exploring edge computing and IoT solutions
+- Enhancing React and Next.js proficiency
 
+## 📈 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toufik98&layout=compact&theme=dark)
