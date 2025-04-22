@@ -5,6 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/toufik-ferhat-012317154/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-darkgreen)](https://github.com/Toufik98)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:toufik.ferhat@outlook.com)
+[![Website](https://img.shields.io/badge/Website-Visit-orange)](https://www.home.me)
 
 ## 👨‍💻 Professional Summary
 Software engineer with extensive experience in payment systems, automotive software, and AI applications. Skilled in C++, Python, TypeScript, React, and Angular with a strong foundation in both frontend and backend development, embedded systems, and machine learning.
@@ -60,6 +61,20 @@ Software engineer with extensive experience in payment systems, automotive softw
 - Exploring edge computing and IoT solutions
 - Enhancing React and Next.js proficiency
 
+## 📊 GitHub Activity
+
+### Latest Commits
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Toufik98&theme=react-dark)
+
+### Commit Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toufik98&theme=dark)
+
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Toufik98&layout=compact&theme=dark)
+![Toufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Toufik98&show_icons=true&theme=dark)
+
+## 🔄 Recent Activity
+<!--START_SECTION:activity-->
+<!-- This section will be automatically updated by a GitHub Action -->
+<!--END_SECTION:activity-->
