@@ -1,184 +1,88 @@
-<div align="center">
+# Toufik Ferhat
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F62FE,100:6929C4&height=200&section=header&text=Toufik%20Ferhat&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Mobile%20%7C%20Embedded%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
+**Full-Stack & C++ Software Engineer** — Payments, Embedded Systems, AI
 
-<p>
-  <a href="https://www.linkedin.com/in/toufik-ferhat-012317154/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:toufik.ferhat@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Toufik98">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+Based in France · Sorbonne University M.Sc. · 5+ years of experience
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0F62FE&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Payments+%7C+Embedded+Systems;React+Native+%7C+NestJS+%7C+Next.js;From+Renault+clusters+to+Amadeus+payments;Turning+coffee+into+working+software+since+2018" alt="Typing SVG" />
-
-</div>
-
+[LinkedIn](https://www.linkedin.com/in/toufik-ferhat-012317154/) · [Email](mailto:toufik.ferhat@outlook.com)
 
 ---
 
-## Hi, I'm Toufik 👋
-
-📍 France · 🛠 Systems · Payments · Mobile · 🎓 Sorbonne Engineering Alumni
-
-> *"Good software is invisible — it just works. Great software makes you feel it."*
-
-I'm a senior software engineer who has shipped code at scale across three very different domains: **enterprise payment systems** (Amadeus/Outpayce), **automotive embedded software** (Renault), and **consumer mobile apps**. I care deeply about performance, clean architecture, and building things that actually get used.
+I build software across domains that don't usually overlap. Over the past five years, I've written C++17 payment capture pipelines at **Amadeus/Outpayce**, designed instrument cluster software at **Renault**, and built CNN-based defect detection systems at **Valeo**. Before engineering, I worked night audit shifts at Paris hotels while finishing my degree at Sorbonne — a period that taught me more about reliability under pressure than any textbook.
 
 ---
 
-## 🏗️ Past Work & Experience
+## Where I've Worked
 
-### 💳 Amadeus Payments · Outpayce — *via Scalian (Oct 2022 → 2024)*
-Enterprise-grade payment platform for one of the world's largest travel tech companies.
-- Shipped production **C++17** components in a high-throughput payments pipeline
-- Built Angular dashboards for payment ops and monitoring
-- Worked in **SAFe Agile** at scale — PI planning, team sync, cross-team API contracts
-- Python tooling for test automation and data validation
+**Scalian → Amadeus Payments / Outpayce** · Full-Stack Software Engineer · Oct 2022 – Present
 
-### 🚗 Renault Group — *Instrument Cluster Software Engineer (2020 → 2022)*
-Real-time embedded software for next-gen vehicle instrument clusters.
-- Designed and shipped a **driving simulation engine** with realistic 3D rendering
-- Migrated cluster software to **embedded Linux** targets (Yocto)
-- Built AI signal generation for realistic driving data simulation
-- Heavy **Qt/QML** UI work + **CMake/Conan** build systems
+Payment infrastructure for one of the largest travel technology companies in the world. Two distinct phases:
 
-### 🔬 Valeo — *AI Engineer Intern (Nov 2021 → Feb 2022)*
-AI-powered quality inspection for power electronics manufacturing.
-- Computer vision pipeline with **TensorFlow + OpenCV** for defect detection
-- Cross-platform gRPC interfaces between Python inference servers and C++ clients
+- **Checkout SDK (Full-Stack)** — Angular/TypeScript checkout SDK used by airline and hospitality clients. Integrated Google Pay (cryptogram + PAN-only), Apple Pay Web SDK, and Click to Pay (Mastercard). Implemented end-to-end 3DS2 flows with Cardinal/Cybersource and ACI. Supported Etihad Airways' production go-live with Google Pay cryptogram payments. Led the Pay-by-Link SDK release from development through rollout.
+- **Payment Backend (C++)** — C++17 capture and batch processing pipelines for PSP file compliance (Adyen, Cybersource, MPGS, Ingenico). Event-driven workflows with Kafka, MongoDB, and Elasticsearch in a PCI DSS environment. On-call production support: failing job investigation, payment reprocessing, refund reconciliation on Oracle DB.
 
----
+**Renault Group** · Software Engineer (Apprenticeship) · Sep 2020 – Sep 2022
 
-## 🛠 Tech Stack
+Instrument cluster software for next-generation vehicles:
 
-<div align="center">
+- Designed the cluster software architecture and built a driving simulation platform using CARLA for early feature validation. Modeled CAN-bus state machines in Simulink for automated data injection.
+- Led interns on YOLO/YOLOR object detection. Integrated H.264 video streaming via GStreamer from infotainment to cluster on embedded Linux.
+- Migrated C++ cluster software to NXP embedded targets using Yocto, CMake, and cross-compilation toolchains.
 
-**Languages**
+**Valeo** · AI Engineer Intern · Oct 2021 – Feb 2022
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+CNN-based defect detection for power electronics quality inspection:
 
-**Mobile & Frontend**
+- TensorFlow model trained on a board-level defect dataset. gRPC architecture: Python inference backend, Qt/QML desktop frontend for operator workflows.
+- Delivered with a 5-student Sorbonne team under a senior Valeo engineer.
 
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+**LIP6 — Sorbonne University** · Embedded Software Intern · Sep 2019 – Jan 2020
 
-**Backend & Infra**
+Embedded teaching applications on Raspberry Pi and NXP prototyping boards. Wrote and profiled C and assembly routines, benchmarking execution performance across optimization strategies.
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+**Ernst & Young** · Software Developer Intern · Jul 2019 – Aug 2019
 
-**Embedded & Systems**
-
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Yocto](https://img.shields.io/badge/Yocto-6D9930?style=flat-square&logo=linux&logoColor=white)
-
-**AI / Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-</div>
+Python automation for ACL Analytics fraud detection reports — parsing CSV/JSON/XML outputs and generating client-ready DOCX summaries via Jinja2. Reduced manual report creation from 4+ hours to minutes.
 
 ---
 
-## 🎓 Education
+## Technical Background
 
-- **Master's in Intelligent Systems Engineering** — Sorbonne University, Paris *(2020–2022)*
-- **Bachelor's in Electronics & Control Systems** — Sorbonne University, Paris *(2020)*
+**Languages** — C/C++17, Python, TypeScript, JavaScript, SQL, Matlab
 
-### 🏆 Certifications
-- SAFe® 5.1 Practitioner
-- TensorFlow Developer Certificate
-- Machine Learning Specialization (Coursera / DeepLearning.AI)
+**Payments & Security** — Google Pay, Apple Pay, Click to Pay, 3DS/3DS2, PCI DSS, PSP integrations (Adyen, Cybersource, MPGS, Ingenico)
 
----
+**Web & Frameworks** — Angular, React, Next.js, Node.js, NestJS, REST APIs, gRPC
 
-## 💡 What I'm Working On
+**Data & Messaging** — Oracle DB, MongoDB, Kafka, Elasticsearch, Splunk, Redis, Control-M
 
-- � Exploring cloud-native architecture and distributed systems patterns
-- 🌐 Building multilingual (RTL-aware) mobile experiences
-- 🤖 Applying AI/ML to real-world engineering problems
-- 📦 Contributing to open-source tooling for embedded and mobile development
+**Embedded & DevOps** — CMake, Yocto, NXP, GStreamer, Embedded Linux, Qt/QML, Docker, Jenkins, Git
+
+**AI & Vision** — TensorFlow, PyTorch, YOLO/YOLOR, OpenCV, CARLA, Simulink
 
 ---
 
-## 🧠 Engineering Philosophy
+## Education
 
-I've shipped software on three very different platforms — **real-time embedded systems** where a bug means a car shows the wrong speedometer, **enterprise payment systems** where a bug costs real money, and **consumer mobile apps** where a bad UX means the user deletes you. Each domain taught me something different about what "quality" means.
+**M.Sc. Intelligent Systems Engineering** — Sorbonne University, Paris (2020–2022)
 
-What I believe:
-- **Correctness before speed.** Measure before you optimize.
-- **The best architecture is the one your team can maintain.** Clever is often the enemy of good.
-- **Mobile UX is hard.** 60fps, offline-first, RTL, accessibility — these aren't optional.
-- **Embedded systems humility.** When you can't rely on the OS, you think differently about everything.
+**B.Sc. Electrical & Electronic Engineering** — Sorbonne University, Paris (2018–2020)
+
+**Certifications** — SAFe 5 Practitioner · TensorFlow for AI/ML · C++ Certification · Python 3 Certification
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Toufik98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toufik98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toufik98&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toufik98&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [SAMI Obstacle Detector](https://gitlab.com/Toufik.98/sami-obstacle-detector) | Real-time obstacle detection in CARLA using YOLO/YOLOR with trigonometry-based distance estimation | Python, PyTorch, CARLA |
+| [Mille-Bornes](https://github.com/Toufik98/Mille-Bornes) | Full-stack web card game with Angular frontend and Python REST backend | Angular, Python, SQLite |
+| [Visual Odometry](https://github.com/Toufik98/Visual-odemetry-using-homographies) | 3D point positioning from 2D images via homography decomposition | Matlab, Computer Vision |
+| [City-Mapper](https://github.com/Toufik98/City-Mapper) | Shortest-path routing over the Paris RATP network (300+ stations, Dijkstra) | C++, STL, Graph Algorithms |
+| [ACWE](https://github.com/Toufik98/ACWE) | Chan-Vese active contour segmentation via morphological reconstruction | Python, NumPy |
+| [ProDataViz](https://github.com/Toufik98/prodataviz) | Data pipeline and dashboard for French master-student employment stats (15K+ rows) | Python, Pandas, MySQL |
 
 ---
 
-## 🔄 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toufik_Ferhat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/toufik-ferhat-012317154/)
-[![Email](https://img.shields.io/badge/Email-toufik.ferhat@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toufik.ferhat@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Toufik98-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Toufik98)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6929C4,100:0F62FE&height=100&section=footer" width="100%"/>
-
-*Open to interesting problems. Especially the kind that matter.*
-
-</div>
+*Open to interesting problems — especially the kind that ship.*
