@@ -169,6 +169,10 @@ Python automation for ACL Analytics fraud reports — CSV/JSON/XML parsing into 
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Toufik98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Toufik98&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toufik98&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Toufik98&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
